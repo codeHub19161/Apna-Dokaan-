@@ -10,9 +10,9 @@ export interface Product {
 
 export const CATEGORIES = [
   "Electronics",
+  "Fashion",
+  "Daily-Needs",
   "Home",
-  "Clothing",
-  "Beauty",
-  "Sports",
-  "Books"
+  "Foods",
+  "Beauty"
 ];
