@@ -65,7 +65,7 @@ export const products: Product[] = [
     imageUrl: "https://m.media-amazon.com/images/I/61n7MBtTpQL._SL1500_.jpg",
     category: "Beauty",
     affiliateLink: "https://amzn.to/4te3dgk",
-    featured: true,
+    
   },
   {
     id: "6",
@@ -75,6 +75,7 @@ export const products: Product[] = [
     imageUrl: "https://m.media-amazon.com/images/I/81vk-9zjgpL._SL1500_.jpg",
     category: "Daily-Needs",
     affiliateLink: "https://amzn.to/3O3a4ud",
+    featured: true,
   },
   {
     id: "7",
@@ -84,7 +85,7 @@ export const products: Product[] = [
     imageUrl: "https://m.media-amazon.com/images/I/61WM6IDaBPL._SL1200_.jpg",
     category: "Electronics",
     affiliateLink: "https://amzn.to/3PAlyWx",
-    featured: true,
+    
   },
   {
     id: "8",
@@ -130,6 +131,7 @@ export const products: Product[] = [
     imageUrl: "https://m.media-amazon.com/images/I/716QZrTn-GL._SL1500_.jpg",
     category: "Foods",
     affiliateLink: "https://amzn.to/3Rzx7Ou",
+     featured: true,
   },
    {
     id: "13",
@@ -139,6 +141,7 @@ export const products: Product[] = [
     imageUrl: "https://m.media-amazon.com/images/I/61pi1knEQaL._SL1500_.jpg",
     category: "Foods",
     affiliateLink: "https://amzn.to/4u0b95I",
+     featured: true,
   }
   //  {
   //   id: "14",
