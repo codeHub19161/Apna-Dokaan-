@@ -11,10 +11,11 @@ export interface Product {
 
 export const categories = [
   "Electronics",
-  "Home & Kitchen",
-  "Clothing",
+  "Fashion",
+  "Daily-Needs",
+  "Home",
+  "Foods",
   "Beauty",
-  "Books",
 ];
 
 export const products: Product[] = [
