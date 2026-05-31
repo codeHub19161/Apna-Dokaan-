@@ -31,7 +31,7 @@ export function About() {
             <h2 className="text-2xl font-bold text-brand-green mt-8 mb-4">Contact Us</h2>
             <p>
               Have questions or suggestions? We'd love to hear from you. 
-              Reach out to us at <a href="" className="text-brand-gold hover:text-brand-gold-hover font-medium">eerieboom@gmail.com</a>.
+              Reach out to us at <a href="" className="text-brand-gold hover:text-brand-gold-hover font-medium">davidali7595@gmail.com</a>.
             </p>
           </div>
         </div>
